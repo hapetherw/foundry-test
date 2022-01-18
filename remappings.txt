@@ -1,2 +1,2 @@
-ds-test/=/home/bobby/foundrytest/test1/lib/ds-test/src/
+ds-test/=/home/bobby/foundrytest/foundry-test/lib/ds-test/src/
 @openzeppelin/=lib/openzeppelin-contracts/
